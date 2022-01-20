@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="⚽️ Welcome to Futbala ⚽️" />
+        <Header title="⚽️ FUTBALA ⚽️" />
         <p className="description">
           The biggest soccer game is coming to town
         </p>
