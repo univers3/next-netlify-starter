@@ -11,13 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Futbala is coming!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          The biggest soccer game is coming to town
         </p>
       </main>
-
-      <Footer />
+    
     </div>
   )
 }
