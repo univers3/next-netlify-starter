@@ -14,7 +14,7 @@ export default function Home() {
 
       <main>
         
-        <img src="futbala_main.png" alt="Futbala" style={{ width: '50%' }}/>
+        <img src="futbala_main.png" alt="Futbala" style={{ width: '75%' }}/>
 
       </main>
     
