@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="⚽️ FUTBALA ⚽️" />
-        <img src="futbala_logo.jpg" alt="Italian Trulli">
+        <img src="futbala_logo.jpg" alt="Futbala" />
         <p className="description">
           The biggest soccer game is coming to town
         </p>
