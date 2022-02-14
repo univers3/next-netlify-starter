@@ -2,9 +2,7 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
-const divStile = {
-  backgroundImage: 'linear-gradient(to left, rgba(255,255,255,0), rgba(220,220,220,1))'
-};
+const divStile = { backgroundImage: 'linear-gradient(to left, rgba(255,255,255,0), rgba(220,220,220,1))' };
 
 export default function Home() {
   return (
@@ -16,7 +14,7 @@ export default function Home() {
 
       <main>
         
-        <img src="futbala_main.png" alt="Futbala"/>
+        <img src="futbala_main.png" alt="Futbala" style={{ width: '50%' }}/>
 
       </main>
     
