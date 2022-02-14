@@ -11,11 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="⚽️ FUTBALA ⚽️" />
-        <img src="futbala_logo.png" alt="Futbala" />
-        <p className="description">
-          The biggest soccer game is coming to town
-        </p>
+        
+        <img src="futbala_main.png" alt="Futbala" style="width:50%" />
+
       </main>
     
     </div>
